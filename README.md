@@ -6,15 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironstark007" alt="ironstark007" /></a> </p> -->
 
 
-- 🌱 I’m currently contributing to **Full Stack technologies**
+- 🌱 I’m currently contributing to **Backend Systems**
 
 - 👯 I’m looking to contribute to the developer community with my good work.
 
-- 💬 Ask me about **Python, JavaScript, Nodejs, Reactjs**
+- 💬 Ask me about **Python, Docker, AWS, and Databases**
 
 - 📫 How to reach me **ansar326629@gmail.com**
 
-- 🥅 2023 Goals: Pushing my limits everyday to become more better version of myself
+- 🥅 2026 Goals: Pushing my limits everyday to become more better version of myself
 
 - ⚡ Hobbies : Programming, Workout and Cycling
 ---
